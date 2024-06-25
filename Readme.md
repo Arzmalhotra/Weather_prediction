@@ -1,0 +1,1 @@
+This project uses machine learning algorithms to predict about the rainfall the next day 
